@@ -5,6 +5,15 @@ Modern Web version and Android builds
 * [Fork repository](https://github.com/ancient-empires-resources/webbestmaster-backup) (use [GoogleChromePortableLegacyWin7](https://portableapps.com/downloading/?a=GoogleChromePortableLegacyWin7&s=s&p=&d=pa&f=GoogleChromePortableLegacyWin7_109.0.5414.120_online.paf.exe))
 * [Modern Web support repository](https://github.com/TAbdiukov/Ancient-Empires-Modern-Web) (by [Tim Abdiukov](https://github.com/TAbdiukov))
 
+## List of changes
+
+- [AE1 and AE2: Fix non-Android launch crash from missing OS info](https://github.com/ancient-empires/Android-web-backup/commit/6dd942096bced0de5d4529100ea04e9249ce1d27)
+- AE1 and AE2: Add favicon files to keep browser happy
+- AE1: [AE1: Add standard mobile web app capability meta tag](https://github.com/ancient-empires/Android-web-backup/pull/2/commits/56693bde46a9b49fe496a37eebc1e37bfcbbc611)
+- AE2: [Replace WebSQL storage with IndexedDB](https://github.com/ancient-empires/Android-web-backup/commit/eafa339dfd3e1a8166cf52900a0d6d4bdc4c9659)
+- AE2: [Fix web background music startup under modern autoplay restrictions](https://github.com/ancient-empires/Android-web-backup/commit/3bfd8325b02a28a7a449e3d6cdfd8eb5355d1f18) 
+- Modern README and modern steps
+
 ## Download Android version
 
 Go to the **`apk`** directory to download the Android version.
